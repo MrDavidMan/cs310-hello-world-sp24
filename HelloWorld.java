@@ -22,4 +22,8 @@ public class HelloWorld {
     private void f3() {
         // v3.0 (revised for hotfix)
     }
+
+    private void f4() {
+        // v1.0
+    }
 }
